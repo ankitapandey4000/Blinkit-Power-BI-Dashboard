@@ -45,37 +45,37 @@ This section showcases key pages from the Blinkit Power BI Dashboard, with scree
 
 **Overview Page**
 
-https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Overview.jpg
+![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Overview.jpg)
 
 This page provides a high-level summary of business performance, featuring a line chart for total deliveries over time (e.g., trends showing peaks in current year deliveries at 2.5M vs. previous year's 2.2M), a donut chart for delivery completion rates, and a bar chart for revenue by regions (highlighting growth of 32.50% to $2.2M current year from $1.68M previous). It helps stakeholders quickly identify operational trends and resource allocation needs, enabling proactive decisions like scaling during high-demand periods.
 
 **Sales Overview Page**
 
- https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Sales%20Overview.jpg
+ ![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Sales%20Overview.jpg)
 
 Focused on revenue and order metrics, this page includes a column chart for revenue by product category (e.g., $2.52M in 2024 vs. $2.21M in 2023), a line chart for monthly sales trends, and a KPI card for average order value. It allows users to track growth (13.81% implied from data) and set targets, supporting strategies like promotions for underperforming categories to boost overall revenue.
 
 **Customer Page**
 
-https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Customer.jpg
+![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Customer.jpg)
 
 This page analyzes customer behavior with a gauge chart for retention rates, a table ranking top customers by revenue (e.g., new customers at 659 out of 2128 total), and a word cloud or sentiment analysis for feedback trends. It reveals acquisition patterns (e.g., by month/year) and helps design loyalty programs, improving retention and targeting similar demographics for expansion.
 
 **Inventory Page**
 
-https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Inventory.jpg
+![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Inventory.jpg)
 
 Dedicated to stock management, it shows a bar chart for stock levels by category (e.g., available stock at 61M units, 54.41M available percentage), a KPI card for turnover rate (5.33%), and a heatmap/table for low-stock/damaged alerts (5.99% damaged). Monthly breakdowns of received, sold, and closing stock (e.g., up to 100M received) prevent stockouts, optimizing costs and ensuring demand fulfillment.
 
 **Marketing Page**
 
-https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Marketing.jpg
+![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Marketing.jpg)
 
 This page evaluates campaign performance via a bar or funnel chart for ROI (e.g., impressions at 912M, conversions at 90.71K), a pie chart for customer acquisition by channel, and a stacked bar for spend by region (current year 744.3K vs. previous 775.75K). It identifies effective channels and adjusts budgets, maximizing ROI and driving targeted growth.
 
 **Feedback Page**
 
-https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Feedbacks.jpg
+![image alt](https://github.com/ankitapandey4000/Blinkit-Power-BI-Dashboard/blob/main/Feedbacks.jpg)
 
 Centered on customer sentiment, it includes charts for feedback volume (2.5M current vs. 2.21M previous), a breakdown by sentiment (e.g., 1.2M positive, new vs. regular at 1.11M/2128), and lists of individual feedbacks (repeated mentions like "Aedi Bains" possibly indicating sample data). It pinpoints improvement areas, enhancing product quality and customer satisfaction through actionable insights.
 
